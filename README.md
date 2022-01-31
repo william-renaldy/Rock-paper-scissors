@@ -1,5 +1,5 @@
 # Rock-paper-scissors
-Simple stone paper scissors mobile app
+Simple rock paper scissors mobile app
 
 Developed by William Renaldy
 
